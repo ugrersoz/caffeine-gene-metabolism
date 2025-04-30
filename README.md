@@ -11,3 +11,5 @@ A Streamlit-based web application that provides personalized caffeine metabolism
   - Expandable info boxes (using Streamlit expanders) for additional details.
   - Color-coded tolerance levels (success/warning/error) to indicate caffeine sensitivity risks.
 - **Sources**: Cornelis, M. C., et al. (2006). "Coffee, CYP1A2 Genotype, and Risk of Myocardial Infarction." Journal of the American Medical Association (JAMA), 295(10), 1135-1141. Read the full article here <https://jamanetwork.com/journals/jama/fullarticle/202339>.
+
+📍 https://my-caffeine-gene-metabolism.streamlit.app/
